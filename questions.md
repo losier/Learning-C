@@ -3,7 +3,7 @@
 3. [C Program to Add Two Integers](https://github.com/losier/Learning-C/blob/master/src/3.c)
 4. [C Program to Multiply Two Floating-Point Numbers](https://github.com/losier/Learning-C/blob/master/src/4.c)
 5. [C Program to Find ASCII Value of a Character](https://github.com/losier/Learning-C/blob/master/src/5.c)
-6. [C Program to Compute Quotient and Remainder](https://github.com/losier/Learning-C/blob/master/src/)
+6. [C Program to Compute Quotient and Remainder](https://github.com/losier/Learning-C/blob/master/src/6.c)
 7. [C Program to Find the Size of int, float, double and char](https://github.com/losier/Learning-C/blob/master/src/)
 8. [C Program to Demonstrate the Working of Keyword long](https://github.com/losier/Learning-C/blob/master/src/)
 9. [C Program to Swap Two Numbers](https://github.com/losier/Learning-C/blob/master/src/)
